@@ -1,0 +1,9 @@
+The project is about students,the courses they are doing at different time.
+this project is able to organise the students that have different courses in 
+they respective countries forexample students coming malawi can be organised 
+at they own so easy to indentify they courses and at what time they are supposed
+to start learnig
+So different students are able to study from different countries and doing different
+courses.
+therefore my database design is able to compile and allow different students from different 
+countries to learn together and keep they data in order.

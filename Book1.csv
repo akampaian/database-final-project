@@ -1,0 +1,21 @@
+StudentsId,course,student_name,Marks,,Adress,Room number,CGPA,starting_date,ending date
+201,LLB,customer name,85,,address,1,3.3,07/06/2012,07/06/2013
+202,BED,Akampa Ian,76,,Uganda,2,4.3,07/06/2012,07/06/2013
+203,BSCS,Kananura Annitah,95,,Kenya,3,4.5,08/05/2012,08/05/2013
+204,BSCS,Kannanura Rinah,67,,Rwanda,4,3.9,08/07/2021,08/07/2023
+205,BSCS,Ampire Ronah,75,,Tanzania,5,4.3,08/06/2021,08/06/2023
+206,LLB,Ainomugisha Cristine,67,,DRC,6,4.1,04/03/2021,04/03/2022
+123,LLB,Kannanura Frank,97,,S.Sudan,7,4.5,04/03/2021,04/03/2022
+254,BED,Akaawe Natasha,70,,Egypt,8,4,08/08/2021,08/08/2022
+894,BSCS,Aineamani Davis,90,,Malawi,9,4.6,07/08/2021,07/08/2022
+785,BSCS,Kakulu Isaac,70,,Congo,10,4.7,04/08/2021,04/08/2022
+987,BED,Isaac Shammer,78,,Mali,11,3.7,08/06/2021,08/06/2022
+123,BED,Wilso Nyumba,74,,Brazil,12,3.6,09/08/2021,09/08/2022
+345,LLB,Bak Kau,75,,USA,13,4.5,09/05/2021,09/05/2022
+845,BHM,Kasulane Isaac,85,,Italy,44,4.5,05/05/2021,05/05/2022
+945,BHM,Allan Smith,96,,Tanzania,65,4.7,05/07/2021,05/07/2022
+946,BSIT,Kure Peter,90,,Malawi,34,4.7,07/06/2021,07/06/2022
+734,BSIT,Odeke Vicert,56,,DRC,76,4.3,06/07/2021,06/07/2022
+845,BSIT,Nikson Magure,87,,Kenya,85,4.5,04/05/2021,04/05/2022
+934,BSCS,Ndashimye Conrad,86,,Rwanda,34,5,04/05/2021,04/05/2022
+123,LLB,Kato Abert,97,,Tongo,50,4.9,04/05/2021,04/05/2022
